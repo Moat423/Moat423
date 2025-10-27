@@ -32,7 +32,6 @@
   
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/lea-meubrink-005822341/])
   [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:leameubrink@gmail.com)
-  [![42 Profile](https://img.shields.io/badge/42Berlin-000000?style=for-the-badge&logo=42&logoColor=white)](your-42-profile-url)
   
 </div>
 
