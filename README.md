@@ -38,7 +38,7 @@
 ## 🏆 42Berlin Journey
 
 ```
-[--------------------------------C ◦ o ◦ ] 91% Core Curriculum Completion
+100% Core Curriculum Completion
 ```
 
 **Key Projects & Skills Developed:**
