@@ -23,9 +23,10 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Moat423)](https://github.com/anuraghazra/github-readme-stats)
 
 ### 🔧 Currently Exploring
-- Full-stack development patterns
-- Modern web frameworks
-- Embedded systems programming in side projects
+- CAN, TPL, ISO-SPI
+- Embedded system design
+- AI best practices
+- better CI workflows
 
 ## 🔗 Let's Connect!
 
