@@ -2,10 +2,11 @@
 
 ## 🚀 About Me
 
-🎓 **Currently:** Finishing my studies at **42Berlin**  
+👩🏼‍💻 **Currently:** Working at TRICERA energy GmbH
+🎓 **Education:** Finished my core studies at **42Berlin**  
 💡 **Direction:** Embedded development & system optimization  
 🔍 **Trait:** Going deep into things and optimizing.  
-🌱 **Learning:** Full-stack development with TypeScript & Tailwind CSS  
+🌱 **Learning:** Embedded Programming best practices and CAN protocol
 
 ---
 
